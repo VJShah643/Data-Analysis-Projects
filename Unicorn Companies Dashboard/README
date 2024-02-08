@@ -1,1 +1,16 @@
+PowerBi Unicorn Companies Data Analytics Project. The dataset is taken from Kaggle.
+The interactive Dashboard shows the following analysis:
+  1. Top Valuation Industry
+  2. Top Valuation Company
+  3. Maximum Valuation
+  4. Maximum Funded
+  5. Sum of Valuation by Industry
+  6. Valuation by Continent
+  7. Funding by Continent
+  8. Valuation by Continent and Country
+  9. Year Founded and Date Joined by Company
 
+These fields can be filtered by:
+  1. Continent
+  2. Country
+  3. Industry
