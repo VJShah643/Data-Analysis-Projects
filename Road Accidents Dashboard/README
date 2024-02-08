@@ -1,1 +1,16 @@
+Microsoft Excel-based Data Analytics Project. 
+The Dashboard shows the following analysis regarding the Data:
+  1. Total Fatal Accidents
+  2. Total Serious Accidents
+  3. Total Slight Accidents
+  4. Total Casualties by Vehicle Type
+  5. Casualties by Road Type
+  6. Casualties by Surface Type
+  7. Casualties by light conditions
+  8. Casualties by Area
+  9. Total Casualties
 
+These fields can be filtered by:
+  1. Speed Limit
+  2. Area
+  3. Accident Date
